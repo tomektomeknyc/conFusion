@@ -1,2 +1,2 @@
 # conFusion
-An application that presents restaurant menu 
+Responsive web appplication (restaurant menu)
